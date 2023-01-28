@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/DivyamM/TEXTUTILS-WEBAPP/static/css/main.fcf0e3e3.css",
-    "main.js": "/DivyamM/TEXTUTILS-WEBAPP/static/js/main.2e3fa7a7.js",
-    "static/js/787.28cb0dcd.chunk.js": "/DivyamM/TEXTUTILS-WEBAPP/static/js/787.28cb0dcd.chunk.js",
-    "index.html": "/DivyamM/TEXTUTILS-WEBAPP/index.html",
-    "main.fcf0e3e3.css.map": "/DivyamM/TEXTUTILS-WEBAPP/static/css/main.fcf0e3e3.css.map",
-    "main.2e3fa7a7.js.map": "/DivyamM/TEXTUTILS-WEBAPP/static/js/main.2e3fa7a7.js.map",
-    "787.28cb0dcd.chunk.js.map": "/DivyamM/TEXTUTILS-WEBAPP/static/js/787.28cb0dcd.chunk.js.map"
+    "main.css": "/TEXTUTILS-WEBAPP/static/css/main.fcf0e3e3.css",
+    "main.js": "/TEXTUTILS-WEBAPP/static/js/main.829a5d20.js",
+    "static/js/787.28cb0dcd.chunk.js": "/TEXTUTILS-WEBAPP/static/js/787.28cb0dcd.chunk.js",
+    "index.html": "/TEXTUTILS-WEBAPP/index.html",
+    "main.fcf0e3e3.css.map": "/TEXTUTILS-WEBAPP/static/css/main.fcf0e3e3.css.map",
+    "main.829a5d20.js.map": "/TEXTUTILS-WEBAPP/static/js/main.829a5d20.js.map",
+    "787.28cb0dcd.chunk.js.map": "/TEXTUTILS-WEBAPP/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.fcf0e3e3.css",
-    "static/js/main.2e3fa7a7.js"
+    "static/js/main.829a5d20.js"
   ]
 }
