@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/divyammishra7/TEXTUTILS-WEBAPP.git/static/css/main.fcf0e3e3.css",
+    "main.js": "/divyammishra7/TEXTUTILS-WEBAPP.git/static/js/main.425b487c.js",
+    "static/js/787.28cb0dcd.chunk.js": "/divyammishra7/TEXTUTILS-WEBAPP.git/static/js/787.28cb0dcd.chunk.js",
+    "index.html": "/divyammishra7/TEXTUTILS-WEBAPP.git/index.html",
+    "main.fcf0e3e3.css.map": "/divyammishra7/TEXTUTILS-WEBAPP.git/static/css/main.fcf0e3e3.css.map",
+    "main.425b487c.js.map": "/divyammishra7/TEXTUTILS-WEBAPP.git/static/js/main.425b487c.js.map",
+    "787.28cb0dcd.chunk.js.map": "/divyammishra7/TEXTUTILS-WEBAPP.git/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fcf0e3e3.css",
+    "static/js/main.425b487c.js"
+  ]
+}
